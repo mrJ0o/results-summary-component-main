@@ -38,6 +38,8 @@ h1, h2, h3 {
 .wrapper {
   width: 100%;
   max-width: 375px;
+  box-shadow: 5px 5px 25px -5px rgba(0, 0, 0, 0.1);
+  border-radius: 30px;
 }
 
 /* Utilities */
